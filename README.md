@@ -1,16 +1,10 @@
 A* Pathfinding Algorithm | Backpacked
 -- | --
-![Furniture Mod](https://github.com/chrisoliver345/chrisoliver345/blob/master/A-Star-Picture.png?raw=true) | ![Backpacked](https://i.imgur.com/kWgsIFg.png)
-[📕 View Code Repository](https://github.com/chrisoliver345/A-Star-Pathfinding) | [📕 View Code Repository](https://github.com/MrCrayfish/Backpacked)
-[🐛 Report a Bug](https://github.com/chrisoliver345/A-Star-Pathfinding/issues/new) | [🐛 Report a Bug](https://github.com/MrCrayfish/Backpacked/issues/new)
-[💾 View Online](?) | [💾 Download Mod](https://mrcrayfish.com/mods?id=backpacked)
+![Furniture Mod](https://github.com/chrisoliver345/chrisoliver345/blob/master/A-Star-Picture.png?raw=true) | ![Backpacked]()
+[📕 View Code Repository](https://github.com/chrisoliver345/A-Star-Pathfinding) | [📕 View Code Repository]()
+[🐛 Report a Bug](https://github.com/chrisoliver345/A-Star-Pathfinding/issues/new) | [🐛 Report a Bug]()
+[💾 View Online](https://chrisoliver345.github.io/A-Star-Visualisation/) | [💾 Download Mod]()
 
-Controllable | Goblin Traders
--- | --
-![Controllable](https://i.imgur.com/oXtjfgs.png) | ![Goblin Traders](https://i.imgur.com/QBYPd7j.png)
-[📕 View Code Repository](https://github.com/MrCrayfish/Controllable) | [📕 View Code Repository](https://github.com/MrCrayfish/GoblinTraders)
-[🐛 Report a Bug](https://github.com/MrCrayfish/Controllable/issues/new) | [🐛 Report a Bug](https://github.com/MrCrayfish/GoblinTraders/issues/new)
-[💾 Download Mod](https://mrcrayfish.com/mods?id=controllable) | [💾 Download Mod](https://mrcrayfish.com/mods?id=goblintraders)!
 
 Fire Walker Mod | Lumbermill Mod
 -- | --
