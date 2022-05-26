@@ -4,21 +4,20 @@
   I'm an avid programmer who likes to muck around and explore the creative freedom that coding gives me.
 </h4>
 <br>
-
 <h3>
   Languages
 </h3>
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][python]
-[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][javascript]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>][java]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>][csharp]
+<a href="https://python.org" target="_blank"><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
+<a href="https://python.org" target="_blank"><img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
+<a href="https://python.org" target="_blank"><img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"></a>
+<a href="https://python.org" target="_blank"><img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a>
 
-
+<br>
 <h3>
   Tools
 </h3>
-[<img align="left" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eclipseide.svg"/>][intellij]
-[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg"/>][unity]
+<a href="https://python.org" target="_blank"><img align="left" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg"></a>
+<a href="https://python.org" target="_blank"><img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg"></a>
 
 
 
