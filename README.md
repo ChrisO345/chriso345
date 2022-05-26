@@ -1,29 +1,20 @@
 <h1>About Me</h1>
 
-<h4>loreum ipsem dolor sit amen.....
-
+<h4>
+  I'm an avid programmer who likes to muck around and explore the creative freedom that coding gives me.
 </h4>
-<br><br><br>
+
+<br><br>
 <h2>Some of my Projects</h2>
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisoliver345)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisoliver345&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisoliver345)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-**Cog Discord Bot** <br>
-[📕 View Code Repository](https://github.com/chrisoliver345/Cog) <br>
-[🐛 Report a Bug](https://github.com/chrisoliver345/Cog/issues/new) <br>
-[💾 Get Bot](https://discord.com/api/oauth2/authorize?client_id=798907865112510514&permissions=8&scope=bot) <br>
-<br> **Fire Walker Mod** <br>
+**Fire Walker Mod** <br>
 [📕 View Code Repository](https://github.com/chrisoliver345/Fire-Walker) <br>
 [🐛 Report a Bug](https://github.com/chrisoliver345/Fire-Walker/issues/new) <br>
 [💾 Download Mod](https://www.curseforge.com/minecraft/mc-mods/fire-walker) <br>
-<br> **Lumbermill Mod** <br>
-[📕 View Code Repository](https://github.com/chrisoliver345/Lumbermill) <br>
-[🐛 Report a Bug](https://github.com/chrisoliver345/Lumbermill/issues/new) <br>
+
+<br>
+<h2>Github Statistics</h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisoliver345&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisoliver345&layout=compact&langs_count=6&theme=dracula&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
