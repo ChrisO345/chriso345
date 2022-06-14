@@ -1,7 +1,7 @@
 <h1>About Me</h1>
 
 <h4>
-  I'm an avid programmer who likes to muck around and explore the creative freedom that coding gives me.
+  I am an avid programmer who likes to muck around and explore the creative freedom that coding gives me.
 </h4>
 
 
