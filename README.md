@@ -36,9 +36,9 @@
 <br>
 <h2>Github Statistics</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisoliver345)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriso345)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisoliver345&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriso345&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 [python]: https://www.python.org
 [javascript]: https://www.javascript.com
