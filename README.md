@@ -29,8 +29,8 @@
 <h2>Some of my Projects</h2>
 
 **Fire Walker Mod** <br>
-[📕 View Code Repository](https://github.com/chrisoliver345/Fire-Walker) <br>
-[🐛 Report a Bug](https://github.com/chrisoliver345/Fire-Walker/issues/new) <br>
+[📕 View Code Repository](https://github.com/chriso345/Fire-Walker) <br>
+[🐛 Report a Bug](https://github.com/chriso345/Fire-Walker/issues/new) <br>
 [💾 Download Mod](https://www.curseforge.com/minecraft/mc-mods/fire-walker) <br>
 
 <br>
