@@ -15,6 +15,7 @@
 <a href="https://java.com" target="_blank"><img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"></a>
 <a href="https://processing.com" target="_blank"><img align="left" alt="Processing" width="26px" src="https://user-images.githubusercontent.com/46587501/170594839-77fcb240-ef46-4425-9266-8cad8084f801.png"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"><img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a>
+<a href="https://www.swift.com" target="_blank"><img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></a>
 
 <br>
 <h3>
