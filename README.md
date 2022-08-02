@@ -29,21 +29,18 @@
 <br><br>
 <h2>Some of my Projects</h2>
 
-**Fire Walker Mod** <br>
-[📕 View Code Repository](https://github.com/chriso345/Fire-Walker) <br>
-[🐛 Report a Bug](https://github.com/chriso345/Fire-Walker/issues/new) <br>
-[💾 Download Mod](https://www.curseforge.com/minecraft/mc-mods/fire-walker) <br>
+Teak Language | Further Maths Package | Fire Walker Mod
+-- | -- | --
+[📕 View Code Repository](https://github.com/ChrisO345/Teak-Language) | [📕 View Code Repository](https://github.com/ChrisO345/furthermaths-module) | [📕 View Code Repository](https://github.com/chriso345/Fire-Walker)
+[🐛 Report a Bug](https://github.com/ChrisO345/Teak-Language/issues/new) | [🐛 Report a Bug](https://github.com/ChrisO345/furthermaths-module/issues/new) | [🐛 Report a Bug](https://github.com/chriso345/Fire-Walker/issues/new)
+[💾 Download Code](https://github.com/ChrisO345/Teak-Language) | [💾 Download Package](pypi.org/project/furthermaths/) | [💾 Download Mod](https://www.curseforge.com/minecraft/mc-mods/fire-walker)
 
 <br>
+
 <h2>Github Statistics</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriso345)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chriso345)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriso345&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-[python]: https://www.python.org
-[javascript]: https://www.javascript.com
-[java]: https://www.java.com
-[csharp]: https://docs.microsoft.com/en-us/dotnet/csharp
-[intellij]: https://www.jetbrains.com/idea/
-[unity]: https://unity.com
+
