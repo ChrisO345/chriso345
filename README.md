@@ -24,6 +24,7 @@
 </h3>
 <a href="https://jetbrains.com/idea" target="_blank"><img align="left" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg"></a>
 <a href="https://unity.com" target="_blank"><img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg"></a>
+<a href="https://www.godotengine.org" target="_blank"><img align="left" alt="Godot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png"></a>
 
 
 
