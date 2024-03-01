@@ -30,8 +30,11 @@
 
 <h2>Github Statistics</h2>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chriso345)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=chriso345&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriso345&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=chriso345&layout=compact&langs_count=6&card_width=445&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=chriso345#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) 
+
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=chriso345&layout=compact&langs_count=6&card_width=445#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
