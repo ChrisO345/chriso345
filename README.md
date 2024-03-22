@@ -1,19 +1,10 @@
-<h1>About Me</h1>
-
-<h4>
-  I am an avid programmer who likes to explore the creative freedom that coding gives me. I enjoy coding problems and finding my own unique solutions to them.
-</h4>
-
-
-
 <br>
 <h3>
   Languages
 </h3>
 <a href="https://python.org" target="_blank"><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
-<a href="https://javascript.com" target="_blank"><img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
 <a href="https://java.com" target="_blank"><img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"></a>
-<a href="https://processing.com" target="_blank"><img align="left" alt="Processing" width="26px" src="https://user-images.githubusercontent.com/46587501/170594839-77fcb240-ef46-4425-9266-8cad8084f801.png"></a>
+<a href="https://javascript.com" target="_blank"><img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
 
 <br>
 <h3>
