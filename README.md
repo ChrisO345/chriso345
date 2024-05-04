@@ -1,4 +1,10 @@
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
+
+<p align="left">
+  I am a Part II Engineering Science Student at The University of Auckland...
+</p>
 
 
 <h3 align="left">Languages:</h3>
