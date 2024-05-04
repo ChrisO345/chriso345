@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  ...
+  I am a Part II Engineering Science Student at The University of Auckland.
 </p>
 
 
