@@ -1,9 +1,9 @@
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me:</h3>
 
 ###
 
 <p align="left">
-  I am a Part II Engineering Science Student at The University of Auckland...
+  I'm a Part II Engineering Science student at the University of Auckland. My journey into Engineering Science was sparked by a deep-seated passion for mathematics, programming, and computational modeling, coupled with a keen interest in data analytics.
 </p>
 
 
