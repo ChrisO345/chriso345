@@ -17,15 +17,8 @@
   <a href="https://javascript.com" target="_blank"><img alt="Javascript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
   <img width="12" />
   <a href="https://mathworks.com/products/matlab.html" target="_blank"><img alt="Matlab" height="40" src="https://raw.githubusercontent.com/github/explore/fb1413905cbb7f6639f234c4e2c933e69f484a4f/topics/matlab/matlab.png"></a>
-</div>
-
-<br>
-
-<h3 align="left">Tools:</h3>
-<div align="left">
-  <a href="https://jetbrains.com/idea" target="_blank"><img alt="IntelliJ" height="40" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png"></a>
   <img width="12" />
-  <a href="https://www.godotengine.org" target="_blank"><img alt="Godot" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png"></a>
+  <a href="https://www.r-project.org/" target="_blank"><img alt="R Language" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></a>  
 </div>
 
 <br>
