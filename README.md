@@ -21,6 +21,15 @@
   <a href="https://www.r-project.org/" target="_blank"><img alt="R Language" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></a>  
 </div>
 
+<h3 align="left">Currently Learning:</h3>
+<div align="left">
+    <a href="https://go.dev/" target="_blank"><img alt="Go" height="40" src="https://raw.githubusercontent.com/github/explore/ac0b33cc8936c152bc0dacf91436f8099a5413c9/topics/go/go.png"></a>
+    <img width="12" />
+    <a href="https://github.com/scikit-learn" target="_blank"><img alt="Scikit Learn" height="40" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4"></a>
+    <img width="12" />
+    <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" height="40" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4"></a>
+</div>
+
 <br>
 <br>
 
