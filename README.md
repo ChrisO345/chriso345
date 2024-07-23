@@ -28,6 +28,8 @@
     <a href="https://github.com/scikit-learn" target="_blank"><img alt="Scikit Learn" height="40" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4"></a>
     <img width="12" />
     <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" height="40" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4"></a>
+    <img width="12" />
+    <a href="https://cplusplus.com/" target="_blank"><img alt="C++" height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></a>
 </div>
 
 <br>
