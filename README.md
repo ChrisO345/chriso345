@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  I'm a Part II Engineering Science student at the University of Auckland. My journey into Engineering Science was sparked by a deep-seated passion for mathematics, programming, and computational modeling, coupled with a keen interest in data analytics.
+  I'm a Part III Engineering Science student at the University of Auckland. My journey into Engineering Science was sparked by a deep-seated passion for mathematics, programming, and computational modeling, coupled with a keen interest in data analytics.
 </p>
 
 
